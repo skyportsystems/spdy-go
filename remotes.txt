@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/spdy-go (fetch)
+origin	git@github.com:skyportsystems/spdy-go (push)
+upstream	https://github.com/shykes/spdy-go.git (fetch)
+upstream	https://github.com/shykes/spdy-go.git (push)
